@@ -41,3 +41,8 @@ templates_path = ['templates']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_context = {
+    'display_github': True,
+    'github_repo': 'xyz',
+               }`
