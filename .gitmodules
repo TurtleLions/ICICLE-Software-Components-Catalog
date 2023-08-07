@@ -7,3 +7,9 @@
 [submodule "PPOD_CA"]
 	path = PPOD_CA
 	url = https://github.com/PPODschema/PPOD_CA.git
+[submodule "camera-traps"]
+	path = camera-traps
+	url = https://github.com/tapis-project/camera-traps.git
+[submodule "event-engine"]
+	path = event-engine
+	url = https://github.com/tapis-project/event-engine.git
