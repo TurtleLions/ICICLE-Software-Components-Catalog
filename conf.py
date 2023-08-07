@@ -42,7 +42,4 @@ templates_path = ['templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_context = {
-    'display_github': True,
-    'github_repo': 'xyz',
-               }`
+github_url = "https://github.companyname.com/xyz"
