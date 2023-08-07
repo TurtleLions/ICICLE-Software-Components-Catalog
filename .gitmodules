@@ -1,3 +1,6 @@
 [submodule "hello_icicle_auth_clients"]
 	path = hello_icicle_auth_clients
 	url = https://github.com/sdsc-hpc-training-org/hello_icicle_auth_clients.git
+[submodule "tapis-deployer"]
+	path = tapis-deployer
+	url = https://github.com/tapis-project/tapis-deployer.git
