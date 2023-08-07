@@ -4,3 +4,6 @@
 [submodule "tapis-deployer"]
 	path = tapis-deployer
 	url = https://github.com/tapis-project/tapis-deployer.git
+[submodule "PPOD_CA"]
+	path = PPOD_CA
+	url = https://github.com/PPODschema/PPOD_CA.git
