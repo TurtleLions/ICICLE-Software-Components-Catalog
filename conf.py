@@ -12,6 +12,11 @@ author = 'ICICLE'
 release = '8/07/2023'
 
 # -- General configuration
+html_static_path = ['_static']
+
+html_css_files = [
+    'css/custom.css',
+]
 
 extensions = [
     'sphinx.ext.duration',
@@ -37,7 +42,9 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['templates']
 
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = './_static/icicle.jpeg'
