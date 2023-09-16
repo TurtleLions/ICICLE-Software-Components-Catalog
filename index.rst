@@ -7,14 +7,18 @@ Welcome to ICICLE Software Component Catalog's documentation!
 =============================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :maxdepth: 1
+  :caption: Section 1:
+  
+  /tapis-deployer/README.md
+  /PPOD_CA/README.md
+  /camera-traps/README.md
+  /event-engine/README.md
 
-   /tapis-deployer/README.md
-   /PPOD_CA/README.md
-   /camera-traps/README.md
-   /event-engine/README.md
-   /hello_icicle_auth_clients/README.md
-   /harp/README.md
-   /CI-Components-Catalog/README.md
-   /ICICLE_Foodshed_Parser/README.md
+.. toctree::
+  :maxdepth: 1
+  :caption: Section 2:
+  /hello_icicle_auth_clients/README.md
+  /harp/README.md
+  /CI-Components-Catalog/README.md
+  /ICICLE_Foodshed_Parser/README.md
