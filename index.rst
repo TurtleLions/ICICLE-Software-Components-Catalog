@@ -6,18 +6,23 @@
 Welcome to ICICLE Software Component Catalog's documentation!
 =============================================================
 
+
+Section #1
+***********************
+
 .. toctree::
   :maxdepth: 1
-  :caption: Section 1:
   
   /tapis-deployer/README.md
   /PPOD_CA/README.md
   /camera-traps/README.md
   /event-engine/README.md
 
+Section #2
+***********************
+
 .. toctree::
   :maxdepth: 1
-  :caption: Section 2:
   /hello_icicle_auth_clients/README.md
   /harp/README.md
   /CI-Components-Catalog/README.md
